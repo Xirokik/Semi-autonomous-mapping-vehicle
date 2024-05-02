@@ -45,3 +45,11 @@ THE MAP FILE MUST BE CLOSE TO SAVE THE CHANGES!
 13) Four-channel 433 MHz radio module + remote control
 14) Tape or glue for assembly
 15) Breadboard (optional)
+
+### Watch project in action [here](https://youtu.be/t9z7wJDY7MY)
+
+### Mapped area
+![](https://github.com/Xirokik/Semi-autonomous-mapping-vehicle/blob/main/Project's_files/Mapped_area.jpg)
+
+### Area map
+![](https://github.com/Xirokik/Semi-autonomous-mapping-vehicle/blob/main/Project's_files/Area_map.png)
